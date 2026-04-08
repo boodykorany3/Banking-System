@@ -1,4 +1,4 @@
-# Banking System - Level 2, Task 3
+# Banking System
 
 A clean Java OOP console project that simulates basic banking operations.
 
@@ -12,7 +12,7 @@ Build a `BankAccount` system with:
 - Input validation and edge-case handling
 
 ## What We Implemented
-This task was built as a separate project with a clear OOP structure:
+This project was built with a clear OOP structure:
 
 - `BankAccount` class for core account data and business rules
 - `BankingMenu` class for menu-based user interaction
